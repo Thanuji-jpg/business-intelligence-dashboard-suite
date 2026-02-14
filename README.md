@@ -3,40 +3,40 @@ Amazon Prime Movies & TV Shows – Power BI Dashboard
 
 This project demonstrates how to build an interactive Power BI dashboard using the Amazon Prime Movies and TV Shows dataset from Kaggle. The report was developed in under 20 minutes to showcase a structured, end-to-end BI workflow — from data cleaning to dashboard design.
 
-Project Workflow
+-> Project Workflow
 
-Imported and cleaned raw dataset using Power Query
+1.Imported and cleaned raw dataset using Power Query
 
-Performed data transformations and handled missing values
+2.Performed data transformations and handled missing values
 
-Built a relational data model
+3.Built a relational data model
 
-Created key measures using DAX
+4.Created key measures using DAX
 
-Designed interactive visuals and slicers
+5.Designed interactive visuals and slicers
 
-Developed KPI-based insights for content analysis
+6.Developed KPI-based insights for content analysis
 
-Key Insights Covered
+-> Key Insights Covered
 
-Distribution of Movies vs TV Shows
+1.Distribution of Movies vs TV Shows
 
-Content trends by release year
+2.Content trends by release year
 
-Genre breakdown and rating analysis
+3.Genre breakdown and rating analysis
 
-Country-wise content availability
+4.Country-wise content availability
 
-Overall content growth patterns
+5.Overall content growth patterns
 
-Tools Used
+-> Tools Used
 
-Power BI
+1.Power BI
 
-Power Query
+2.Power Query
 
-DAX
+3.DAX
 
-Kaggle Dataset (Amazon Prime Titles)
+4.Kaggle Dataset (Amazon Prime Titles)
 
 This project highlights practical dashboard design, data transformation, and storytelling techniques relevant for Business Intelligence and Data Analyst roles.
